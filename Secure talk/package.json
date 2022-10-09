@@ -17,6 +17,6 @@
     "start": "node src/server.js",
     "server": "nodemon src/server.js"
   },
-  "author": "Rahul Chhabra",
+  "author": "Rachit Saxena",
   "license": "ISC"
 }
